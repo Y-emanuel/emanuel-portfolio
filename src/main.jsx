@@ -1,7 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import "@fontsource/inter";
+import "@fontsource/inter";           
+import "@fontsource/inter/600.css";    
+
 
 import ErrorBoundary from './components/ErrorBoundary.jsx'
 import './index.css'

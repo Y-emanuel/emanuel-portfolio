@@ -12,9 +12,8 @@ export default {
         primary: '#6E44FF',
         secondary: '#9D4EDD',
         accent: '#B86EFF',
-        // ✅ NUEVO COLOR: Texto más oscuro, pero aún elegante
-        text: '#E5E7EB', // Gris claro (ahora es tu color base de texto)
-        textDark: '#D1D5DB', // Gris medio (para textos secundarios o traducidos)
+        text: '#E5E7EB', 
+        textDark: '#D1D5DB', 
       },
     },
   },
