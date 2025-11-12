@@ -63,7 +63,7 @@ export default function About() {
                 Contact Me
               </a>
               <a
-                href="https://github.com/TU_USUARIO" // ✅ Reemplaza con tu usuario real
+                href="https://github.com/Y-emanuel" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white font-medium"
@@ -71,7 +71,7 @@ export default function About() {
                 GitHub
               </a>
               <a
-                href="https://linkedin.com/in/TU_PERFIL" // ✅ Reemplaza con tu perfil real
+                href="https://www.linkedin.com/in/emanuel-ybalo-88499b372/" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white font-medium"
