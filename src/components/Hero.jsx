@@ -33,7 +33,7 @@ export default function Hero() {
             transition={{ delay: 0.4, duration: 0.6 }}
             className="text-xl text-gray-200 min-h-[2.5rem]"
           >
-            Full Stack Web Developer
+            I Build Landing Pages That Convert Visitors Into Clients
           </motion.p>
 
           {/* Nuevo badge */}
@@ -44,7 +44,7 @@ export default function Hero() {
             className="text-sm text-green-400 font-medium flex items-center gap-1"
           >
             <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
-            Currently Available for New Projects
+            Available to Take On New Projects
           </motion.p>
 
           <motion.p
@@ -53,7 +53,7 @@ export default function Hero() {
             transition={{ delay: 0.6, duration: 0.6 }}
             className="text-gray-300 max-w-lg"
           >
-            Building fast, responsive web apps with clean code and modern tools.
+            High-speed performance, modern UI, and results-driven development for businesses ready to scale.
           </motion.p>
 
           <motion.div

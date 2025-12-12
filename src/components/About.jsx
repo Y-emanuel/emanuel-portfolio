@@ -25,7 +25,7 @@ export default function About() {
             className="md:w-1/2"
           >
             <img
-              src="/your-photo.png" // Asegúrate de tener esta imagen en public/
+              src="/your-photo.png" 
               alt="Emanuel"
               className="rounded-xl shadow-lg w-full max-w-md mx-auto"
             />
