@@ -10,6 +10,7 @@ import Testimonials from "./components/Testimonials";
 import WhatIDo from "./components/WhatIDo";
 import FloatingContact from "./components/FloatingContact";
 import ErrorBoundary from './components/ErrorBoundary.jsx'
+import Services from "./components/services.jsx";
 
 function TestAnimation() {
   return (
@@ -27,6 +28,7 @@ export default function App() {
       <ErrorBoundary>
         <Hero />
       </ErrorBoundary>
+      <Services />
       <About />
       <WhatIDo />
       <Skills />
