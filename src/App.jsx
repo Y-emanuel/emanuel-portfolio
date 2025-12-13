@@ -10,7 +10,7 @@ import Testimonials from "./components/Testimonials";
 import WhatIDo from "./components/WhatIDo";
 import FloatingContact from "./components/FloatingContact";
 import ErrorBoundary from './components/ErrorBoundary.jsx'
-import Services from "./components/services.jsx";
+import Services from "./components/Services.jsx";
 
 function TestAnimation() {
   return (
